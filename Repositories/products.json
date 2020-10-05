@@ -1,0 +1,156 @@
+[
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "ICA"
+    },
+    "Name": "Carpet",
+    "Price": 1229.99,
+    "Shop": {
+      "_product": null,
+      "ShopId": 1,
+      "ShopCity": "Borås",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "DEM"
+    },
+    "Name": "Shampoo",
+    "Price": 89.55,
+    "Shop": {
+      "_product": null,
+      "ShopId": 1,
+      "ShopCity": "Borås",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "DEM"
+    },
+    "Name": "Towel",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 3,
+      "ShopCity": "Lidköping",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "Hemkop"
+    },
+    "Name": "Tea bag",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 1,
+      "ShopCity": "Borås",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "DEM"
+    },
+    "Name": "Soap",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 1,
+      "ShopCity": "Borås",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "DEM"
+    },
+    "Name": "Shower Gel",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 1,
+      "ShopCity": "Borås",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "DEM"
+    },
+    "Name": "Tooth Brush",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 3,
+      "ShopCity": "Lidköping",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "Hemkop"
+    },
+    "Name": "Bread",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 3,
+      "ShopCity": "Lidköping",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "ICA"
+    },
+    "Name": "Home Appliences Full Pack",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 2,
+      "ShopCity": "Göteborg",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "ICA"
+    },
+    "Name": "Headphone",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 1,
+      "ShopCity": "Borås",
+      "Product": null
+    }
+  },
+  {
+    "_shop": null,
+    "Manu": {
+      "Name": "DEM"
+    },
+    "Name": "Tomato paste",
+    "Price": 1.25,
+    "Shop": {
+      "_product": null,
+      "ShopId": 2,
+      "ShopCity": "Göteborg",
+      "Product": null
+    }
+  }
+]
